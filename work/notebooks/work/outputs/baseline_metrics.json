@@ -1,0 +1,6 @@
+{
+  "precision_at_50": 0.7,
+  "base_rate": 0.542,
+  "n_stale_visible": 174,
+  "n_refresh_actions": 17
+}
