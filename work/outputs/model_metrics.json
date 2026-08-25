@@ -1,13 +1,15 @@
 {
-  "precision_at_50": 0.94,
-  "roc_auc": 0.64,
-  "average_precision": 0.735,
+  "precision_at_50_thr_08": 0.9,
+  "precision_at_50_thr_05": 0.9,
+  "roc_auc": 0.669,
+  "average_precision": 0.616,
   "recall_at_50": 0.005,
-  "base_rate": 0.61,
-  "train_rows": 145168,
-  "test_rows": 17051,
+  "base_rate_thr_08": 0.405,
+  "base_rate_thr_05": 0.405,
+  "train_rows": 138985,
+  "test_rows": 23234,
   "test_clients": 9,
-  "positive_rate_train": 0.6399895293728646,
-  "positive_rate_test": 0.6102281391120755,
+  "positive_rate_train": 0.6756268662085837,
+  "positive_rate_test": 0.404966858913661,
   "beats_baseline": true
 }

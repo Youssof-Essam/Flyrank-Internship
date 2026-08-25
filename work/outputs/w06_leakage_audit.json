@@ -3,39 +3,39 @@
   "permutation_importance": [
     {
       "feature": "content_age_days",
-      "importance": 0.11845566397963511
+      "importance": 0.12312261349172673
     },
     {
       "feature": "log_impressions_90d",
-      "importance": 0.07557064064488758
+      "importance": 0.07570640644887563
     },
     {
       "feature": "word_count",
-      "importance": 0.02112855324565126
+      "importance": 0.019083580823080128
     },
     {
       "feature": "days_since_last_update",
-      "importance": 0.009698769622401371
-    },
-    {
-      "feature": "ctr_90d",
-      "importance": 0.002528638099278746
-    },
-    {
-      "feature": "avg_position_90d",
-      "importance": 0.0017819261773440952
-    },
-    {
-      "feature": "main_intent",
-      "importance": 0.0012303775986423516
-    },
-    {
-      "feature": "sessions_90d",
-      "importance": 0.0010861264319049547
+      "importance": 0.007458633856597308
     },
     {
       "feature": "engagement_rate_90d",
-      "importance": 0.0010436996181586889
+      "importance": 0.0038268985999150964
+    },
+    {
+      "feature": "avg_position_90d",
+      "importance": 0.0036996181586762323
+    },
+    {
+      "feature": "sessions_90d",
+      "importance": 0.0031565549427237773
+    },
+    {
+      "feature": "ctr_90d",
+      "importance": 0.0014764531183707684
+    },
+    {
+      "feature": "main_intent",
+      "importance": 7.636826474326508e-05
     },
     {
       "feature": "has_word_count",
@@ -43,7 +43,7 @@
     },
     {
       "feature": "content_type",
-      "importance": -5.091217649555446e-05
+      "importance": -0.0003224437844718153
     }
   ],
   "clean_precision_at_50": 0.98,
