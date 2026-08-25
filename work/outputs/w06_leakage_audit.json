@@ -1,0 +1,52 @@
+{
+  "forbidden_found": false,
+  "permutation_importance": [
+    {
+      "feature": "content_age_days",
+      "importance": 0.11845566397963511
+    },
+    {
+      "feature": "log_impressions_90d",
+      "importance": 0.07557064064488758
+    },
+    {
+      "feature": "word_count",
+      "importance": 0.02112855324565126
+    },
+    {
+      "feature": "days_since_last_update",
+      "importance": 0.009698769622401371
+    },
+    {
+      "feature": "ctr_90d",
+      "importance": 0.002528638099278746
+    },
+    {
+      "feature": "avg_position_90d",
+      "importance": 0.0017819261773440952
+    },
+    {
+      "feature": "main_intent",
+      "importance": 0.0012303775986423516
+    },
+    {
+      "feature": "sessions_90d",
+      "importance": 0.0010861264319049547
+    },
+    {
+      "feature": "engagement_rate_90d",
+      "importance": 0.0010436996181586889
+    },
+    {
+      "feature": "has_word_count",
+      "importance": 0.0
+    },
+    {
+      "feature": "content_type",
+      "importance": -5.091217649555446e-05
+    }
+  ],
+  "clean_precision_at_50": 0.98,
+  "leaky_precision_at_50": 1.0,
+  "gap": 0.02
+}

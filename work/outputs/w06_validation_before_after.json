@@ -1,0 +1,9 @@
+{
+  "random_split_precision_at_50": 1.0,
+  "random_split_base_rate": 0.637,
+  "random_split_roc_auc": 0.858,
+  "grouped_split_precision_at_50": 0.98,
+  "grouped_split_base_rate": 0.673,
+  "grouped_split_roc_auc": 0.729,
+  "gap_random_minus_grouped": 0.02
+}
