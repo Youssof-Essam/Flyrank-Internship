@@ -1,0 +1,13 @@
+{
+  "precision_at_50": 0.84,
+  "roc_auc": 0.808,
+  "average_precision": 0.695,
+  "recall_at_50": 0.006,
+  "base_rate": 0.364,
+  "train_rows": 143752,
+  "test_rows": 18467,
+  "test_clients": 9,
+  "positive_rate_train": 0.6719767377149535,
+  "positive_rate_test": 0.3635132939838631,
+  "beats_baseline": true
+}
